@@ -1,0 +1,50 @@
+body
+{
+    margin: 0%;
+}
+.first
+{
+    background-color:#e9edc9;
+}
+.second
+{
+    background-color: #ffb3c6;
+    padding: 100px;
+    
+}
+.third
+{
+    background-color: #fb6f92;
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+}
+.tex
+{
+    padding: 80px;
+    font-size: 20px;
+}
+.mid
+{
+    padding: 80px;
+    font-size: 15px;
+}
+.btn
+{
+    background-color: #fb6f92;
+}
+
+.src
+{
+    width: 60px;
+   
+}
+.suman
+{
+    font-size: 15px;
+}
+
+.im{
+    width: 100%;
+    height: 300px;
+}
